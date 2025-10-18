@@ -3,8 +3,8 @@
 # SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
 # IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
 # SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
-# Start of session at: Sat Oct 18 09:57:56 2025
-# Process ID         : 12404
+# Start of session at: Sat Oct 18 09:51:26 2025
+# Process ID         : 27512
 # Current directory  : C:/Users/sj5947pw.e/OneDrive - Minnesota State/wsu_classes/phys332-Fa25/phys332_Fa25/Lab_5/try
 # Command line       : vivado.exe -mode batch -source create_bitstream-5a.tcl
 # Log file           : C:/Users/sj5947pw.e/OneDrive - Minnesota State/wsu_classes/phys332-Fa25/phys332_Fa25/Lab_5/try/vivado.log
@@ -19,6 +19,6 @@
 # Host memory        : 16844 MB
 # Swap memory        : 3906 MB
 # Total Virtual      : 20750 MB
-# Available Virtual  : 3480 MB
+# Available Virtual  : 3495 MB
 #-----------------------------------------------------------
 source create_bitstream-5a.tcl

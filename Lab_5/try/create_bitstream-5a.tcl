@@ -11,10 +11,9 @@
 #
 set_param general.maxThreads 8
 # Define project variables
-set project_name "lab5a"
 # Nexys4DDR
 set part "xc7a100tcsg324"
-#set part "x7a100tcsg324-1" 	
+set project_name "lab5a"
 set top_module "lab_5a"
 
 # Create a project in memory (Non-Project Mode)
